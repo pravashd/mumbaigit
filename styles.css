@@ -1,0 +1,31 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    font-family: "Comic Sans MS",sans-serif;
+    background-color: lightskyblue;
+    margin: 10px;
+}
+h1{
+    text-align: center;
+    text-shadow: 0 0 3px black;
+}
+h2{
+    background: linear-gradient(45deg,orange,white,green);
+    text-align: center;
+    padding: 10px;
+    box-shadow:0 0 10px black;
+}
+p,td {
+    text-align: center;
+
+}
+table{
+    width: 100%;
+}
+img , iframe{
+    box-shadow: 0 0 10px black;
+    border: 5px solid white;
+    border-radius: 10px;
+
+}
